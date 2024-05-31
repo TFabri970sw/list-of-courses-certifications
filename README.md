@@ -4,6 +4,7 @@ Reserved repository to list a little of my academic life. &#128527;
 
 ## Index &#128161;
 
+- [Certification of Courses](#Certification of Courses)
 
 
 
@@ -13,8 +14,7 @@ Reserved repository to list a little of my academic life. &#128527;
 
 
 
-
-## Certification of Courses &#128204;
+## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
 Below is a list of the courses I completed. There are currently 2 courses with a total of 12 hours.
 
