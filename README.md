@@ -13,7 +13,8 @@ Below is a list of the courses I completed. There are currently 2 courses with a
 #### Logic programming
 
 -Logic programming I: Dive into programming with JavaScript. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate)
--Logic programming II: 
+
+-Logic programming II:
 
 #### Ia
 
