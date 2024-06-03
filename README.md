@@ -1,6 +1,6 @@
 # My academic life :white_check_mark:
 
-Reserved repository to list a little of my academic life. &#128170;
+Reserved repository to list a little of my academic life. 	&#128526
 
 ## Languages &#9749;&#65039;
 
