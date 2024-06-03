@@ -4,7 +4,7 @@ Reserved repository to list a little of my academic life. &#128170;
 
 ## Languages &#9749;&#65039;
 
-- **Portuguese:** Native speaker, I am Brazilian.
+- **Portuguese:** Native speaker, I am Brazilian.	&#127463;&#127479;
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
