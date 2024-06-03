@@ -18,5 +18,4 @@ Below is a list of the courses I completed. There are currently 3 courses with a
 
 #### Ia
 
--immersion artificial intelligence II: Dive into artificial intelligence, from prompt engineering to API usage. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#129302;
- [here](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615)
+-immersion artificial intelligence II: Dive into artificial intelligence, from prompt engineering to API usage. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#129302; [here](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615)
