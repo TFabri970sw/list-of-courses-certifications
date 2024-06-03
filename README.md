@@ -6,7 +6,7 @@ Reserved repository to list a little of my academic life.&#128526;
 
 - **Portuguese:** Native speaker, I am Brazilian.	&#127463;&#127479;
 
--**English:** starting
+- **English:** starting.
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
