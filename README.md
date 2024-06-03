@@ -6,6 +6,8 @@ Reserved repository to list a little of my academic life.&#128526;
 
 - **Portuguese:** Native speaker, I am Brazilian.	&#127463;&#127479;
 
+-**English:** starting
+
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
 Below is a list of the courses I completed. There are currently 3 courses with a total of 18 hours.
