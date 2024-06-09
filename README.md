@@ -10,6 +10,8 @@ Reserved repository to list a little of my academic life.&#128526;
 
 Below is a list of the courses I completed. There are currently 3 courses with a total of 18 hours.
 
+### Git e GitHub 
+
 #### Logic programming
 
 -Logic programming I: Dive into programming with JavaScript. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate)
