@@ -12,7 +12,7 @@ Below is a list of the courses I completed. There are currently 3 courses with a
 
 ### Git e GitHub
 
--
+-Git e GitHub: Sharing and Collaborating on Projects. School: [Alura](https://www.alura.com.br/). Duration:
 
 #### Logic programming
 
