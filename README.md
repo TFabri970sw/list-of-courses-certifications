@@ -10,7 +10,9 @@ Reserved repository to list a little of my academic life.&#128526;
 
 Below is a list of the courses I completed. There are currently 3 courses with a total of 18 hours.
 
-### Git e GitHub 
+### Git e GitHub
+
+-
 
 #### Logic programming
 
