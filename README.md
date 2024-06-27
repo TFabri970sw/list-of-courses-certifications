@@ -9,7 +9,7 @@ Reserved repository to list a little of my academic life.&#128526;
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
-Below is a list of the courses I completed. There are currently 4 courses with a total of 26 hours.
+Below is a list of the courses I completed. There are currently 5 courses with a total of 34 hours.
 
 ### Git e GitHub
 
@@ -20,6 +20,10 @@ Below is a list of the courses I completed. There are currently 4 courses with a
 -Logic programming I: Dive into programming with JavaScript. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate)
 
 -Logic programming II: explore functions and lists. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-funcoes-listas/certificate)
+
+### Python
+
+-Python I: Create your first application. School: [Alura](https://www.alura.com.br/). Duration: 8h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-crie-sua-primeira-aplicacao/certificate).
 
 #### Ia
 
